@@ -13,3 +13,6 @@ if média >= 7:
 else:
     print('Aluno', nome, 'você foi REPROVADO.Sua média em',
           matéria, 'foi', média, '.')
+
+    
+    print testando alteração
